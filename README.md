@@ -9,4 +9,3 @@
 - TensorFlow: https://www.tensorflow.org/install/source_windows
 - Pandas: https://pandas.pydata.org/docs/getting_started/install.html
 - Seaborn: https://seaborn.pydata.org/installing.html
-  
